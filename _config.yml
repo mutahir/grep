@@ -5,7 +5,7 @@ permalink:           pretty
 #relative_permalinks: true
 
 # Setup
-title:               grep
+title:               'grep'
 tagline:             'memorydump'
 description:         'student of & for life'
 baseurl:             "/grep"
